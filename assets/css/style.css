@@ -1131,7 +1131,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #009ADE;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1177,7 +1177,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #e43c5c;
+  border-color: #009ADE;
 }
 
 .contact .php-email-form input {
@@ -1189,7 +1189,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #e43c5c;
+  background: #009ADE;
   border: 0;
   padding: 10px 28px;
   color: #fff;
@@ -1198,7 +1198,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #d01d3f;
+  background: #009ADE;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1290,7 +1290,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot.active {
-  background-color: #e43c5c !important;
+  background-color: #009ADE !important;
 }
 
 .portfolio-details .portfolio-info {
@@ -1377,7 +1377,7 @@ section {
 }
 
 .blog .entry .entry-title a:hover {
-  color: #e43c5c;
+  color: #009ADE;
 }
 
 .blog .entry .entry-meta {
@@ -1424,7 +1424,7 @@ section {
 
 .blog .entry .entry-content .read-more a {
   display: inline-block;
-  background: #e43c5c;
+  background: #009ADE;
   color: #fff;
   padding: 5px 20px 7px 20px;
   transition: 0.3s;
@@ -1433,7 +1433,7 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #d01d3f;
+  background: #0077BF;
 }
 
 .blog .entry .entry-content h3 {
@@ -1504,7 +1504,7 @@ section {
 }
 
 .blog .entry .entry-footer a:hover {
-  color: #e43c5c;
+  color: #009ADE;
 }
 
 .blog .entry .entry-footer .cats {
@@ -1614,7 +1614,7 @@ section {
 }
 
 .blog .blog-comments .comment h5 a:hover {
-  color: #e43c5c;
+  color: #009ADE;
 }
 
 .blog .blog-comments .comment h5 .reply {
@@ -1688,7 +1688,7 @@ section {
 }
 
 .blog .blog-comments .reply-form .btn-primary:hover {
-  background-color: #e43c5c;
+  background-color: #009ADE;
 }
 
 .blog .blog-pagination {
@@ -1718,8 +1718,8 @@ section {
 }
 
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #e43c5c;
-  border: 1px solid #e43c5c;
+  background: #009ADE;
+  border: 1px solid #009ADE;
 }
 
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {
@@ -1781,13 +1781,13 @@ section {
   font-size: 16px;
   padding: 0 20px;
   margin: -1px;
-  background: #e43c5c;
+  background: #009ADE;
   color: #fff;
   transition: 0.3s;
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: #d01d3f;
+  background: #0077BF;
 }
 
 .blog .sidebar .categories ul {
@@ -1804,7 +1804,7 @@ section {
 }
 
 .blog .sidebar .categories ul a:hover {
-  color: #e43c5c;
+  color: #0077BF;
 }
 
 .blog .sidebar .categories ul a span {
@@ -1834,7 +1834,7 @@ section {
 }
 
 .blog .sidebar .recent-posts h4 a:hover {
-  color: #e43c5c;
+  color: #009ADE;
 }
 
 .blog .sidebar .recent-posts time {
@@ -1871,8 +1871,8 @@ section {
 
 .blog .sidebar .tags ul a:hover {
   color: #fff;
-  border: 1px solid #e43c5c;
-  background: #e43c5c;
+  border: 1px solid #009ADE;
+  background: #009ADE;
 }
 
 .blog .sidebar .tags ul a span {
@@ -1936,7 +1936,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ea6981;
+  color: #00BFF2;
   font-size: 18px;
   line-height: 1;
 }
@@ -1960,7 +1960,12 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #e43c5c;
+  color: #009ADE;
+}
+
+#footer .footer-top img {
+  height: 35px;
+  height: 55px;
 }
 
 #footer .footer-newsletter {
@@ -2000,7 +2005,7 @@ section {
   background: none;
   font-size: 15px;
   padding: 0 22px;
-  background: #e43c5c;
+  background: #0077BF;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -2008,7 +2013,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #d01d3f;
+  background: #0077BF;
 }
 
 #footer .credits {
@@ -2020,7 +2025,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #e43c5c;
+  background: #009ADE;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -2033,7 +2038,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #d01d3f;
+  background: #009ADE;
   color: #fff;
   text-decoration: none;
 }
